@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0456-132-pattern/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0456-132-pattern/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
