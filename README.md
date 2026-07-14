@@ -52,4 +52,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1291-sequential-digits/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1392-longest-happy-prefix/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1392-longest-happy-prefix/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1392-longest-happy-prefix/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1392-longest-happy-prefix/) | Hard |
 <!---LeetCode Topics End-->
