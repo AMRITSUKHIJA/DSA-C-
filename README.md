@@ -68,4 +68,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1392-longest-happy-prefix](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1392-longest-happy-prefix/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
