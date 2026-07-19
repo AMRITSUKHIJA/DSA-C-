@@ -27,10 +27,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0456-132-pattern/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0456-132-pattern/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -94,4 +97,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
