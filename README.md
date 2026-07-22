@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1392-longest-happy-prefix/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Rolling Hash
@@ -109,4 +111,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1260-shift-2d-grid/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
