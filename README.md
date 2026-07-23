@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
@@ -115,4 +117,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 <!---LeetCode Topics End-->
