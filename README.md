@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0456-132-pattern/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1260-shift-2d-grid](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
