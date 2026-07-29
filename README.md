@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1260-shift-2d-grid/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,4 +148,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
