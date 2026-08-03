@@ -198,5 +198,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0610-triangle-judgement](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0610-triangle-judgement/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1789-primary-department-for-each-employee/) | Easy |
 <!---LeetCode Topics End-->
