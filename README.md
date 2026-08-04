@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0180-consecutive-numbers](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0180-consecutive-numbers/) | Medium |
 | [0610-triangle-judgement](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0610-triangle-judgement/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1789-primary-department-for-each-employee](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1789-primary-department-for-each-employee/) | Easy |
