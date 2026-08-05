@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0610-triangle-judgement](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0610-triangle-judgement/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1164-product-price-at-a-given-date/) | Medium |
+| [1321-restaurant-growth](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1321-restaurant-growth/) | Medium |
 | [1729-find-followers-count](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1729-find-followers-count/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1789-primary-department-for-each-employee/) | Easy |
 <!---LeetCode Topics End-->
