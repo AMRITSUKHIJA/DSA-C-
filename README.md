@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0180-consecutive-numbers/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0610-triangle-judgement](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0610-triangle-judgement/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1164-product-price-at-a-given-date/) | Medium |
