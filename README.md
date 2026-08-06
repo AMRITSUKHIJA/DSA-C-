@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1045-customers-who-bought-all-products](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1321-restaurant-growth](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1321-restaurant-growth/) | Medium |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1341-movie-rating/) | Medium |
 | [1729-find-followers-count](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1729-find-followers-count/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1789-primary-department-for-each-employee/) | Easy |
