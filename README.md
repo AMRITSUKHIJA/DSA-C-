@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-longest-happy-prefix](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1392-longest-happy-prefix/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -189,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1406-stone-game-iii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
