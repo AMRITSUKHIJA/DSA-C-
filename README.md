@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0877-stone-game/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1140-stone-game-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1406-stone-game-iii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Recursion
@@ -202,14 +205,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1406-stone-game-iii/) | Hard |
 ## Database
 | Problem Name | Difficulty |
@@ -231,4 +237,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
