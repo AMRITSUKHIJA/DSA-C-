@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -216,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1406-stone-game-iii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
