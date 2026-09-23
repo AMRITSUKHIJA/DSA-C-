@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/AMRITSUKHIJA/DSA-C-/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Rolling Hash
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/1260-shift-2d-grid/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/AMRITSUKHIJA/DSA-C-/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AMRITSUKHIJA/DSA-C-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 |  |
